@@ -1,0 +1,6 @@
+{
+    "mongoURI" : "mongodb+srv://test123:test123@cluster0.tkomv.mongodb.net/bookflix?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecret",
+    "EMAIL": "mianmaaz405@gmail.com",
+    "PASSWORD":"1300094147405gmail"
+}
